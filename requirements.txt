@@ -7,5 +7,5 @@ sqlparse==0.3.0
 django-allauth==0.41.0
 django-countries==5.5
 django-crispy-forms==1.8.1
-Pillow==6.2.1
+Pillow==8.2.0
 stripe==2.41.1
